@@ -1,5 +1,5 @@
 {
   "versionName": "1.1.3",
-  "releaseNotes": "• Added new features and performance improvements\n• Enhanced UI transparency controls",
-  "downloadUrl": "https://github.com/BorutoDEV/LUFAS/releases/download/v1.1.3/lufas_v1.1.3.apk"
+  "releaseNotes": "• Upgraded Media3 MediaSession Service with Rich Media Notification Player\n• Added Persistent Sort Order & Custom Wallpaper Persistence\n• Enhanced UI Glass-Morphic Transparency Controls",
+  "downloadUrl": "https://github.com/SENKU-X2/LUFAS/releases/download/v1.1.3/app-debug.apk"
 }
