@@ -1,5 +1,5 @@
 {
-  "versionName": "1.1.3",
-  "releaseNotes": "• Upgraded Media3 MediaSession Service with Rich Media Notification Player\n• Added Persistent Sort Order & Custom Wallpaper Persistence\n• Enhanced UI Glass-Morphic Transparency Controls",
-  "downloadUrl": "https://github.com/SENKU-X2/LUFAS/releases/download/v1.1.3/app-debug.apk"
+  "versionName": "2.1.3",
+  "releaseNotes": "• Upgraded to Version 2.1.3 (Build 4)\n• Added Playing Queue Multi-Select & Bulk Management\n• Added Jump-to-Current Target Button in Queue Screen\n• Enhanced Glassmorphic UI Transparency & For You Section Layout\n• Persistent Sort Order & Fully Automated GitHub OTA Updates",
+  "downloadUrl": "https://github.com/SENKU-X2/LUFAS/releases/download/v2.1.3/app-debug.apk"
 }
