@@ -1,5 +1,5 @@
 {
-  "versionName": "2.1.16",
-  "releaseNotes": "• New Release v2.1.15\n• Bug fixes, performance enhancements & UI customization and added Mini Player control in notification bar!",
-  "downloadUrl": "https://github.com/SENKU-X2/LUFAS/releases/download/v2.1.16/app-debug.apk"
+  "versionName": "2.2.1",
+  "releaseNotes": "• Upgraded to Version 2.2.1 (Build 7)\n• High-Performance Native Pinch-to-Zoom & Drag-to-Move Wallpaper Gestures\n• Real-Time Independent Transparency Sliders for Cards, Text Labels & Fullscreen Player\n• Playing Queue Multi-Select, Bulk Playlist Management & Target Jump Button\n• Fully Automated GitHub OTA Updates & Persistent Sort Order",
+  "downloadUrl": "https://github.com/SENKU-X2/LUFAS/releases/download/v2.2.1/app-debug.apk"
 }
