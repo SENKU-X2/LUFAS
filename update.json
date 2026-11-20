@@ -1,5 +1,5 @@
 {
-  "versionName": "2.2.15",
-  "releaseNotes": "• Upgraded to Version 2.2.15 (Build 11)\n• Folders View Full UI Bar Transparency & Accent Color Integration\n• Playlist 'Select Songs' Screen Matching Reference Design with Date Added Sorting\n• Zero-Flash Cold Start Synchronous Wallpaper Caching & Anti-Break UI Navigation Guards\n• Fully Automated GitHub OTA Updates & Persistent Sort Order",
-  "downloadUrl": "https://github.com/SENKU-X2/LUFAS/releases/download/v2.2.15/app-debug.apk"
+  "versionName": "2.3.1",
+  "releaseNotes": "• Upgraded to Version 2.3.1 (Build 12)\n• Accurate Music Recap & Most-Played Analytics Tracking\n• Playlist 'Select Songs' Screen with Date Added Sorting & Search\n• Zero-Flash Cold Start Synchronous Wallpaper Caching & Anti-Break UI Navigation Guards\n• Fully Automated GitHub OTA Updates & Persistent Sort Order",
+  "downloadUrl": "https://github.com/SENKU-X2/LUFAS/releases/download/v2.3.1/app-debug.apk"
 }
