@@ -1,5 +1,5 @@
 {
-  "versionName": "2.3.6",
-  "releaseNotes": "• Upgraded to Version 2.3.6 (Build 13)\n• Full Theme Accent Color & UI Bar Transparency Integration Across Songs & Customizer Views\n• High-Resolution Default Anime Character Background Asset & Cold-Start Anti-Flash Cache\n• Accurate Most-Played Analytics Tracking & Dynamic Cover Art Cards\n• Fully Automated GitHub OTA Updates & Persistent Sort Order",
-  "downloadUrl": "https://github.com/SENKU-X2/LUFAS/releases/download/v2.3.6/app-debug.apk"
+  "versionName": "2.3.9",
+  "releaseNotes": "• Upgraded to Version 2.3.9 (Build 14)\n• Playlist Card 3-Dots Options Menu (Add Music & Delete Confirmation Dialog)\n• Full Theme Accent Color & UI Bar Transparency Integration Across All Screens & Dialogs\n• High-Resolution Default Anime Character Background Asset & Cold-Start Anti-Flash Cache\n• Fully Automated GitHub OTA Updates & Persistent Sort Order",
+  "downloadUrl": "https://github.com/SENKU-X2/LUFAS/releases/download/v2.3.9/app-debug.apk"
 }
