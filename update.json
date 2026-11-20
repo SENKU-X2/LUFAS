@@ -1,5 +1,5 @@
 {
-  "versionName": "2.2.1",
-  "releaseNotes": "• Upgraded to Version 2.2.1 (Build 7)\n• High-Performance Native Pinch-to-Zoom & Drag-to-Move Wallpaper Gestures\n• Real-Time Independent Transparency Sliders for Cards, Text Labels & Fullscreen Player\n• Playing Queue Multi-Select, Bulk Playlist Management & Target Jump Button\n• Fully Automated GitHub OTA Updates & Persistent Sort Order",
-  "downloadUrl": "https://github.com/SENKU-X2/LUFAS/releases/download/v2.2.1/app-debug.apk"
+  "versionName": "2.2.9",
+  "releaseNotes": "• Upgraded to Version 2.2.9 (Build 9)\n• Advanced Player Theme Switcher (Modern Rounded & Circular Vinyl Disc)\n• Interactive Theme Accent Color Picker in Settings\n• Queue Thumbnail Click-to-Play & Anti-Break UI Navigation Guards\n• Fully Automated GitHub OTA Updates & Persistent Sort Order",
+  "downloadUrl": "https://github.com/SENKU-X2/LUFAS/releases/download/v2.2.9/app-debug.apk"
 }
