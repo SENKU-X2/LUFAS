@@ -1,5 +1,5 @@
 {
-  "versionName": "2.3.9",
-  "releaseNotes": "• Upgraded to Version 2.3.9 (Build 14)\n• Playlist Card 3-Dots Options Menu (Add Music & Delete Confirmation Dialog)\n• Full Theme Accent Color & UI Bar Transparency Integration Across All Screens & Dialogs\n• High-Resolution Default Anime Character Background Asset & Cold-Start Anti-Flash Cache\n• Fully Automated GitHub OTA Updates & Persistent Sort Order",
-  "downloadUrl": "https://github.com/SENKU-X2/LUFAS/releases/download/v2.3.9/app-debug.apk"
+  "versionName": "2.4.5",
+  "releaseNotes": "• Upgraded to Version 2.4.5 (Build 16)\n• Playlist Track Count Relocated to Left of Sort By Button\n• Confirm-to-Delete/Remove Dialogs for All Delete/Remove Actions\n• System Write Settings Permission Integration for Ringtones & Custom Cover Persistence\n• Fully Automated GitHub OTA Updates & Persistent Sort Order",
+  "downloadUrl": "https://github.com/SENKU-X2/LUFAS/releases/download/v2.4.5/app-debug.apk"
 }
