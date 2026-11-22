@@ -1,5 +1,5 @@
 {
-  "versionName": "2.6.4",
-  "releaseNotes": "• Upgraded to Version 2.6.2 (Build 20)\n• Seamless Credits Screen Wallpaper & UI Transparency Integration\n• Bulletproof SonoraMediaService & Global Uncaught Exception Anti-Crash Shield\n• Raw Cover Art Display with 0.7f Fullscreen Transparency & Precision Cropping Sliders\n• Fully Automated GitHub OTA Updates & Persistent Playback State Recovery",
-  "downloadUrl": "https://github.com/SENKU-X2/LUFAS/releases/download/v2.6.2/app-debug.apk"
+  "versionName": "2.7.0",
+  "releaseNotes": "• Upgraded to Version 2.7.0 (Build 21)\n• Google AdMob Banner & Interstitial Monetization Integration (Production IDs Configured)\n• Global Uncaught Exception Anti-Crash Security Shield\n• Raw Cover Art Display with 0.7f Fullscreen Transparency & Precision Cropping Sliders\n• Fully Automated GitHub OTA Updates & Persistent Playback State Recovery",
+  "downloadUrl": "https://github.com/SENKU-X2/LUFAS/releases/download/v2.7.0/app-debug.apk"
 }
