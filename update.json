@@ -1,5 +1,5 @@
 {
-  "versionName": "2.5.0",
-  "releaseNotes": "• Upgraded to Version 2.5.0 (Build 17)\n• Dynamic Theme Accent Color Adoption Across All UI Gradients & Analytics Badges\n• Raw Cover Art Display with 0.7f Fullscreen Transparency & Slow Precision Cropping Sliders\n• Hardware Loudness Enhancer & Gapless Playback Toggle Integration\n• Fully Automated GitHub OTA Updates & Persistent Playback State Recovery",
-  "downloadUrl": "https://github.com/SENKU-X2/LUFAS/releases/download/v2.5.0/app-debug.apk"
+  "versionName": "2.5.2",
+  "releaseNotes": "• Upgraded to Version 2.5.2 (Build 18)\n• Bomb-Proof MediaSessionService & System Media Notification Playback Controls\n• Raw Cover Art Display with 0.7f Fullscreen Transparency & Precision Cropping Sliders\n• Hardware Loudness Enhancer & Gapless Playback Toggle Integration\n• Fully Automated GitHub OTA Updates & Persistent Playback State Recovery",
+  "downloadUrl": "https://github.com/SENKU-X2/LUFAS/releases/download/v2.5.2/app-debug.apk"
 }
