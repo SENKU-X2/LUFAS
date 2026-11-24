@@ -1,5 +1,5 @@
 {
-  "versionName": "2.7.2",
-  "releaseNotes": "• Upgraded to Version 2.7.2 (Build 22)\n• Optimized AdMob Banner Positioning (Positioned Directly Below Floating Mini Player in Footer)\n• Smart Offline Network Connectivity Checking for Banner Ads\n• Production AdMob Banner & Interstitial Ad Unit Integration\n• Fully Automated GitHub OTA Updates & Global Anti-Crash Security Shield",
-  "downloadUrl": "https://github.com/SENKU-X2/LUFAS/releases/download/v2.7.2/app-debug.apk"
+  "versionName": "2.7.5",
+  "releaseNotes": "• Upgraded to Version 2.7.5 (Build 23)\n• 100% Ad-Free Cleanup (AdMob SDK & Ads Removed)\n• Full Credits Section Wallpaper & UI Transparency Card Integration\n• Native Device Media Player Integration & Global Anti-Crash Security Shield\n• Fully Automated GitHub OTA Updates & Persistent Playback State Recovery",
+  "downloadUrl": "https://github.com/SENKU-X2/LUFAS/releases/download/v2.7.5/app-debug.apk"
 }
